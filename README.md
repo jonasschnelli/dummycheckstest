@@ -1,0 +1,2 @@
+# dummycheckstest
+ignore
